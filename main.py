@@ -2,7 +2,6 @@
 print('PyCharm')
 print('yChar')
 print('Charm')
-print('Parm')
-print('Py')
-
-
+x= int(31)
+y= int(11)
+print(x+y)
